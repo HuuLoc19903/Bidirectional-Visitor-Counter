@@ -1,0 +1,3 @@
+".\Objects\visitor_counter.obj" 
+TO ".\Objects\visitorcounter" 
+PRINT(".\Listings\visitorcounter.m51") CODE( 0X0000-0X0FFF )
